@@ -1,0 +1,4 @@
+class PageController {
+
+    def index() { }
+}
